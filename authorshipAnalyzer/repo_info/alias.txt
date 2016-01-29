@@ -1,0 +1,176 @@
+####### List of user name aliases #######
+#git_repository_name;user_name;user_alias_name
+v8/v8;Jacob.Bramley@arm.com;jacob.bramley@arm.com
+torvalds/linux;Thomas Langer;Thomas Lange
+torvalds/linux;Sangsu Park;SangSu Park
+torvalds/linux;Ethan Zhao;ethan.zhao
+torvalds/linux;James M Leddy;James M. Leddy
+torvalds/linux;Daniel Thompson;Daniel THOMPSON
+torvalds/linux;H. J. Lu;H.J. Lu
+torvalds/linux;Haavard Skinnemoen;Havard Skinnemoen
+torvalds/linux;Haavard Skinnemoen;Havard Skinnemoen
+torvalds/linux;Thomas Huehn;Thomas Hoehn
+torvalds/linux;Graf Yang;Graff Yang
+torvalds/linux;jack wang;Jack Wang
+torvalds/linux;stephen hemminger;Stephen Hemminger
+torvalds/linux;stephen hemminger;Stephen Hemminger
+torvalds/linux;stephen hemminger;Stephen Hemminger
+torvalds/linux;stephen hemminger;Stephen Hemminger
+torvalds/linux;stephen hemminger;Stephen Hemminger
+torvalds/linux;hao liu;Hao Liu
+torvalds/linux;J�rg Schummer;Jorg Schummer
+torvalds/linux;françois romieu;Francois Romieu
+torvalds/linux;françois romieu;François Romieu
+torvalds/linux;Noone Important;NooneImportant
+torvalds/linux;Aleksej Makarov;Aleksey Makarov
+torvalds/linux;Zhang, Yanmin;Zhang Yanmin
+torvalds/linux;Roel Kluin;roel kluin
+torvalds/linux;bibo, mao;bibo mao
+torvalds/linux;Jonthan Brassow;Jonathan Brassow
+torvalds/linux;Deepak K;Deepak S
+torvalds/linux;Per Dalen;Per Dalén
+torvalds/linux;Himanshu Madhani;Himanshu Madani
+torvalds/linux;Manish Chopra;Manish chopra
+torvalds/linux;ChenLi Tien;Chen-Li Tien
+torvalds/linux;Maxin B John;Maxin B. John
+torvalds/linux;Dave Wysochanski;dave wysochanski
+torvalds/linux;wanzongshun;Wan ZongShun
+torvalds/linux;Jisheng Zhang;JiSheng Zhang
+torvalds/linux;Jisheng Zhang;JiSheng Zhang
+torvalds/linux;Nicolas Thery;Nicolas THERY
+torvalds/linux;Hongbo Zhang;hongbo.zhang
+torvalds/linux;Stéphane Voltz;Stephane VOLTZ
+torvalds/linux;Maxin B. John;Maxin B John
+torvalds/linux;Stefan Sørensen;Stefan Sorensen
+torvalds/linux;Ravishankar karkala Mallikarjunayya;Ravishankar Karkala Mallikarjunayya
+torvalds/linux;Jason J. herne;Jason J. Herne
+torvalds/linux;Vijaya Mohan Guvva;Vijay Mohan Guvva
+torvalds/linux;Eric Bénard;Eric BENARD
+torvalds/linux;Eric Bénard;Eric Benard
+torvalds/linux;Mark Gross;mark gross
+torvalds/linux;vimal singh;Vimal Singh
+torvalds/linux;figo.zhang;Figo.zhang
+torvalds/linux;Du, Changbin;Du, ChangbinX
+torvalds/linux;Willson Callan;Wilson Callan
+torvalds/linux;Yang Wei;Yang, Wei
+torvalds/linux;Stephen Hemminger;stephen hemminger
+torvalds/linux;Stephen Hemminger;stephen hemminger
+torvalds/linux;Clément Calmels;Clement Calmels
+torvalds/linux;Liu ShuoX;Liu Shuo
+torvalds/linux;Liu ShuoX;Liu Shuo
+torvalds/linux;Haibo Liu;HaiboLiu
+torvalds/linux;Prasanna S Panchamukhi;Prasanna S. Panchamukhi
+torvalds/linux;Carmelo AMOROSO;Carmelo Amoroso
+torvalds/linux;Steven Hardy;Steve Hardy
+torvalds/linux;Edgar E. Iglesias;Edgar E Iglesias
+torvalds/linux;Gabriel Fernandez;Gabriel FERNANDEZ
+torvalds/linux;Gaëtan Carlier;Gaetan Carlier
+torvalds/linux;Wu Fei;Wufei
+torvalds/linux;Rémi Denis-Courmont;R�mi Denis-Courmont
+torvalds/linux;Yang, Sheng;Yang Sheng
+torvalds/linux;Denys Vlasenko;Denis Vlasenko
+torvalds/linux;Shahar Levi;Shahar Lev
+torvalds/linux;Theodore Ts'o;Theodore Tso
+torvalds/linux;Vincent Cuissard;Vincent CUISSARD
+torvalds/linux;hongbo.zhang;Hongbo Zhang
+torvalds/linux;JunweiZhang;Junwei Zhang
+torvalds/linux;Thibaut Varene;Thibaut VARENE
+torvalds/linux;Pawel MOLL;Pawel Moll
+torvalds/linux;Pawel MOLL;Pawel Moll
+torvalds/linux;Dmitry Monakhov;Dmitriy Monakhov
+torvalds/linux;Yang Sheng;yangsheng
+torvalds/linux;Yang Zhang;Yong Zhang
+torvalds/linux;Yan Zheng;Yan, Zheng
+torvalds/linux;Yan Zheng;Yan, Zheng
+torvalds/linux;Lawrence Rust;lawrence rust
+torvalds/linux;Youquan Song;Youquan,Song
+torvalds/linux;Denis Vlasenko;Denys Vlasenko
+torvalds/linux;Denis Vlasenko;Denys Vlasenko
+torvalds/linux;Dmitry Tarnyagin;Dmitry.Tarnyagin
+torvalds/linux;Philippe Rétornaz;Philippe Retornaz
+torvalds/linux;Jean-Christophe DUBOIS;Jean-Christophe Dubois
+torvalds/linux;Ezequiel Garcia;Ezequiel García
+torvalds/linux;Ezequiel Garcia;Ezequiel García
+torvalds/linux;NeilBrown;Neil Brown
+torvalds/linux;david decotigny;David Decotigny
+torvalds/linux;Loic PALLARDY;Loic Pallardy
+torvalds/linux;Eric W. Biedermann;Eric W. Biederman
+torvalds/linux;Eric W. Biedermann;Eric W. Biederman
+torvalds/linux;Eric W. Biedermann;Eric W. Biederman
+torvalds/linux;Eric W. Biedermann;Eric W. Biederman
+torvalds/linux;Eric W. Biedermann;Eric W. Biederman
+torvalds/linux;Hong Zhiguo;Hong zhi guo
+torvalds/linux;Bob Picco;bob picco
+torvalds/linux;dmitry pervushin;Dmitry Pervushin
+torvalds/linux;EGRY Gabor;Egry Gabor
+torvalds/linux;Pravin B Shelar;Pravin B. Shelar
+torvalds/linux;John Stultz;john stultz
+torvalds/linux;Julien Delacou;Julien DELACOU
+torvalds/linux;stephane eranian;Stephane Eranian
+torvalds/linux;stephane eranian;Stephane Eranian
+torvalds/linux;Alexander Smirnov;Alexandr Smirnov
+torvalds/linux;Zero.Lin;zero.lin
+torvalds/linux;Huajun Li;huajun li
+torvalds/linux;Srinivas Pandruvada;srinivas pandruvada
+torvalds/linux;Pawel Moll;Pawel MOLL
+torvalds/linux;Loic Pallardy;Loic PALLARDY
+torvalds/linux;Denis Ciocca;Denis CIOCCA
+torvalds/linux;Shyam Sunder;Shyam Sundar
+torvalds/linux;Yoann DI-RUZZA;Yoann DI RUZZA
+torvalds/linux;Xiangliang Yu;xiangliang yu
+torvalds/linux;BoxiLiu;boxi liu
+torvalds/linux;roel kluin;Roel Kluin
+torvalds/linux;roel kluin;Roel Kluin
+torvalds/linux;Matthieu Castet;Matthieu CASTET
+torvalds/linux;Matthieu Castet;Matthieu CASTET
+torvalds/linux;Dmitry Pervushin;dmitry pervushin
+torvalds/linux;Dmitry Pervushin;dmitry pervushin
+torvalds/linux;Adam Thomson;Adam Thompson
+torvalds/linux;Jason J. Herne;Jason J. herne
+torvalds/linux;Manjunath Goudar;Majunath Goudar
+torvalds/linux;J.A. Magallon;J.A. Magallón
+torvalds/linux;jing xiang;Jing Xiang
+torvalds/linux;Zhang Yanmin;Zhang, Yanmin
+torvalds/linux;John S. Gruber;John S Gruber
+torvalds/linux;Julien TINNES;Julien Tinnes
+torvalds/linux;Julien TINNES;Julien Tinnes
+torvalds/linux;Miguel Botón;Miguel Boton
+torvalds/linux;Miguel Botón;Miguel Boton
+torvalds/linux;Andrew de Quincey;Andrew de Quincy
+torvalds/linux;Andreas Faerber;Andreas Ferber
+torvalds/linux;steven finney;Steven Finney
+torvalds/linux;Dmitriy Monakhov;Dmitry Monakhov
+torvalds/linux;Andrew Vagin;Andrey Vagin
+torvalds/linux;Cindy H. Kao;Cindy H Kao
+torvalds/linux;Dmitry.Tarnyagin;Dmitry Tarnyagin
+torvalds/linux;GeunSik Lim;Geunsik Lim
+torvalds/linux;Edgar E Iglesias;Edgar E. Iglesias
+torvalds/linux;Edgar E Iglesias;Edgar E. Iglesias
+torvalds/linux;Niu Yawei;Niu YaWei
+torvalds/linux;Eric W. Biederman;Eric W. Biedermann
+torvalds/linux;Eric W. Biederman;Eric W. Biderman
+torvalds/linux;Daniel Marjamaki;Daniel Marjamäki
+torvalds/linux;Kashyap, Desai;Kashyap Desai
+torvalds/linux;Gautham R Shenoy;Gautham R. Shenoy
+torvalds/linux;Stephane Eranian;stephane eranian
+torvalds/linux;suzuki;Suzuki
+torvalds/linux;David Härdeman;David Hardeman
+torvalds/linux;Jean-Francois Dagenais;Jean-François Dagenais
+torvalds/linux;Timo Teras;Timo Teräs
+torvalds/linux;Timo Teras;Timo Ter�s
+torvalds/linux;baker.zhang;Baker Zhang
+torvalds/linux;bgardner@wabtec.com;BGardner@Wabtec.com
+torvalds/linux;Jassi Brar;jassi brar
+torvalds/linux;Pavel Emelyanov;Pavel Emelianov
+torvalds/linux;Aubrey Li;Aubrey.Li
+torvalds/linux;jon ernst;Jon Ernst
+torvalds/linux;Yusuke Goda;Yusuke.Goda
+torvalds/linux;David Decotigny;david decotigny
+torvalds/linux;David Decotigny;david decotigny
+torvalds/linux;Figo.zhang;figo.zhang
+torvalds/linux;Soren Brinkmann;Sören Brinkmann
+torvalds/linux;Yan, Zheng;Yan Zheng
+torvalds/linux;CHENG Renquan;Cheng Renquan
+torvalds/linux;liubo;Liu Bo
+torvalds/linux;liubo;Liu Bo
+torvalds/linux;Xiaolong Chen;Xiaolong CHEN
