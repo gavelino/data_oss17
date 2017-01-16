@@ -1,4 +1,4 @@
-# Measuring Code Authorship: The Linux Kernel Case
+# Code Authorship: an Empirical Analysis of the Linux Kernel Evolution
 This repository contains the scripts used to extract and compute the data used in the paper. 
 
 ###Folders
